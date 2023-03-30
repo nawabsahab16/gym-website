@@ -6,6 +6,12 @@ import {Box, Button, Stack , TextField, Typography} from '@mui/material';
 const SearchExercises = () => {
    const [search, setSearch]= useState('')
 
+    
+   const handleSearch = async () => {
+    if(search) {
+      
+   }
+  }
 
 
 
@@ -44,7 +50,9 @@ const SearchExercises = () => {
             right: '0'
 
 
-           }} >
+           }} onClick={handleSearch}
+           
+           >
             Search 
          </Button>
          
