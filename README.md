@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+Developed a feature-rich fitness application with the capability for users to choose exercise categories and target specific muscle groups.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot (101)](https://github.com/nawabsahab16/gym-website/assets/117763400/f71aa896-78da-489f-a6a8-b1fd1c9d2c52)
 
-## Available Scripts
 
-In the project directory, you can run:
+Implemented a user-friendly interface allowing users to browse through a vast database of more than one thousand exercises, complete with practical examples and detailed descriptions.
 
-### `npm start`
+![Screenshot (103)](https://github.com/nawabsahab16/gym-website/assets/117763400/64486a26-f577-4e43-8281-d2e1726ff86e)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Integrated pagination for easy navigation, enhancing the overall user experience within the application.
+![Screenshot (110)](https://github.com/nawabsahab16/gym-website/assets/117763400/ef2b8c05-2cfa-4cc9-bf0c-4830a7c6d4b4)
+![Screenshot (108)](https://github.com/nawabsahab16/gym-website/assets/117763400/f18bb8b7-6409-4cec-b76c-a2575c114da2)
+![Screenshot (107)](https://github.com/nawabsahab16/gym-website/assets/117763400/f0f3fdd5-19fa-4f9b-9dbf-23c31c29bb6f)
+![Screenshot (106)](https://github.com/nawabsahab16/gym-website/assets/117763400/5eba15df-c5f1-452f-8f86-065d76dd7532)
+![Screenshot (105)](https://github.com/nawabsahab16/gym-website/assets/117763400/e2200b19-6c66-49cd-b2eb-b5ac08ec0adb)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Incorporated a dynamic feature to fetch exercise-related videos from YouTube, providing users with visual demonstrations for each exercise.
 
-### `npm run build`
+Implemented a system to display similar exercises, offering users a diversified and personalized workout selection.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Demonstrated strong skills in software development, user experience design, and the integration of external APIs, contributing to the creation of a robust and comprehensive fitness platform.
